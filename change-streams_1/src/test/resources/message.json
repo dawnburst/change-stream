@@ -1,0 +1,11 @@
+ChangeStreamDocument{
+  resumeToken={
+  "_data": {
+    "$binary": "glvEJ0sAAAABRmRfaWQAZFvEJ0tkPQO0KoJeiQBaEAQDGGZyNMFPc6FsNOla4HeyBA==",
+    "$type": "00"
+  }
+}, namespace=test.person,
+fullDocument=Document{{_id=5bc4274b643d03b42a825e89, first_name=Gabriel, last_name=Lorca, age=30, _class=example.springdata.mongodb.Person}}, documentKey={"_id" : {"$oid": "5bc4274b643d03b42a825e89"}}, clusterTime=null, operationType=OperationType{
+value='insert'
+}, updateDescription=null
+}
